@@ -1,3 +1,10 @@
-.fraction{
+/*Shrink improper fraction class*/
+.improperFraction{
     font-size: 70%;
+}
+
+/*shrink img tags to desired size*/
+img{
+    width: 50%;
+    height: 50%;
 }
