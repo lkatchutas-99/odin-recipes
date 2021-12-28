@@ -8,3 +8,13 @@ img{
     width: 50%;
     height: 50%;
 }
+
+.recipeHeader{
+    color: #a1a1a1;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+.linkBG{
+    background-color: #dfdfdf;
+}
